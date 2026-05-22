@@ -99,3 +99,7 @@ Implemented Extensions:
 
 - The CNN-based inspection system achieved high classification accuracy and demonstrated robustness under varying industrial conditions.
 - The system successfully simulated industrial quality inspection workflows.
+
+## Dataset
+The casting product dataset used for this project is available here:
+[https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product]
